@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+I am a scientist with solid background in data analysis, complex systems modeling, and quantitative studies of human behavior.
+
+I developed my career in highly demanding academic environments, working with complex data to identify emerging patterns and translate information into relevant insights. I am interested in applying this scientific rigor and analytical capacity to generate value in data-driven environments.
+
 <!--
 **danielvartan/danielvartan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
