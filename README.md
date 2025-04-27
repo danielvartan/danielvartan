@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am a scientist with experience in data analysis, complex systems modeling, and the development of tools for open science. My career has developed in demanding academic environments, where I worked with complex data to identify emerging patterns and generate relevant insights. I am interested in expanding and applying my knowledge to add value in data-driven environments.
+I am a scientist with experience in data analysis, complex systems modeling, and the development of tools for open science. My career has developed in academic environments, where I worked with complex data to identify emerging patterns and generate relevant insights. I am interested in expanding and applying my knowledge to add value in data-driven environments.
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=danielvartan&rank_icon=github&show_icons=true&theme=transparent)
 
