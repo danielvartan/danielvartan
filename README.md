@@ -5,7 +5,7 @@ I am a scientist with solid background in data analysis, complex systems modelin
 Throughout my career, I have worked in demanding academic environments, analyzing complex data to uncover emerging patterns and turn them into valuable insights.
 I am interested in applying my expertise to address new challenges and contribute to impactful, data-driven solutions.
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=danielvartan&hide_rank=true&show_icons=true&theme=transparent)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=danielvartan&rank_icon=github&show_icons=true&theme=transparent)
 
 <!--
 **danielvartan/danielvartan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
