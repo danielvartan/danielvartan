@@ -2,7 +2,10 @@
 
 I am a scientist with solid background in data analysis, complex systems modeling, and quantitative studies of human behavior.
 
-I developed my career in highly demanding academic environments, working with complex data to identify emerging patterns and translate information into relevant insights. I am interested in applying this scientific rigor and analytical capacity to generate value in data-driven environments.
+Throughout my career, I have worked in demanding academic environments, analyzing complex data to uncover emerging patterns and turn them into valuable insights.
+I am interested in applying my expertise to address new challenges and contribute to impactful, data-driven solutions.
+
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=danielvartan&hide_rank=true&show_icons=true&theme=transparent)
 
 <!--
 **danielvartan/danielvartan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
