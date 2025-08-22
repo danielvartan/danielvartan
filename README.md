@@ -6,7 +6,7 @@ For more details, see my CV: https://danielvartan.github.io/cv-research
 
 &nbsp;
 
-<p align="center" style="padding-top: 30px;">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=danielvartan&rank_icon=github&show_icons=true&theme=transparent" />
 </p>
 
