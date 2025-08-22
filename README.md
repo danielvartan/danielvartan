@@ -4,11 +4,16 @@ I’m an interdisciplinary researcher specializing in agent-based modeling, comp
 
 For more details, see my CV: [danielvartan.github.io/cv-research](https://danielvartan.github.io/cv-research)
 
+<br>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=danielvartan&rank_icon=github&show_icons=true&theme=transparent" />
 </p>
 
 <!-- 
 &nbsp;
+&ensp;
+&emsp;
+<space>
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=danielvartan&rank_icon=github&show_icons=true&theme=transparent)
 -->
