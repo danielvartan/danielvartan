@@ -7,5 +7,5 @@ Currently, I’m affiliated with the Center for Metropolitan Studies ([CEM](http
 <br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=danielvartan&rank_icon=github&show_icons=true&theme=transparent" />
+  <img alt="Daniel Vartanian's GitHub Stats" src="https://github-readme-stats.danielvartan.vercel.app/api?username=danielvartan&rank_icon=github&show_icons=true&theme=transparent" />
 </p>
