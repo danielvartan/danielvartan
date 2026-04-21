@@ -1,6 +1,6 @@
 ### Olá, I'm Daniel! 👋
 
-I'm a Media Manager at [Talent Marcel](https://talent.com.br/) ([Publicis Groupe](https://www.publicisgroupe.com)) and an [R](https://www.r-project.org/)(esearch) Collaborator at the University of São Paulo ([USP](https://www.usp.br/)) working on [complex systems](https://en.wikipedia.org/wiki/Complex_system) and data science.
+I'm a Media Manager at [Talent Marcel](https://talent.com.br/) ([Publicis Groupe](https://www.publicisgroupe.com)) and an [R](https://www.r-project.org/)(esearch) Collaborator at the University of São Paulo ([USP](https://www.usp.br/)). My work focuses on geospatial analysis, [complex systems](https://en.wikipedia.org/wiki/Complex_system) modeling, and computational approaches to marketing, social, and public health challenges.
 
 I grew up between the São Paulo coast and the city, in an Armenian diaspora household (the name's [KACHvartanian](https://www.armenianinstitute.org.uk/new-page-3), but I go by Vartanian to spare everyone the linguistic workout). That mix of coastline, concrete, and diaspora probably explains my long-standing pull toward complexity, in systems and in people alike.
 
